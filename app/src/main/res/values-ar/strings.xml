@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لعبة إكس أو</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="sign">التسجيل</string>
+    <string name="entername">أدخل اسم المستخدم</string>
+    <string name="enterpass">أدخل كلمة المرور</string>
+    <string name="welcome">أهلاً،</string>
+    <string name="logout">←تسجيل الخروج</string>
+    <string name="soundon">الصوت: تشغيل</string>
+    <string name="soundoff">الصوت: إيقاف</string>
+    <string name="musicon">الموسيقى: تشغيل</string>
+    <string name="musicoff">الموسيقى: إيقاف</string>
+    <string name="pvp">لاعب 1 ضد لاعب 2</string>
+    <string name="pvc">لاعب 1 ضد الكمبيوتر</string>
+    <string name="turn">دور</string>
+    <string name="p2">لاعب 2</string>
+    <string name="com">روبوت</string>
+    <string name="won">\nفاز</string>
+    <string name="lose">لقد خسرت</string>
+    <string name="draw">تعادل</string>
+    <string name="won2">لاعب 2 فاز</string>
+    <string name="home">العودة إلى الصفحة الرئيسية</string>
+
+</resources>

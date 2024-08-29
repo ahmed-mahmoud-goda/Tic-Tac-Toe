@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">连连看</string>
+    <string name="login">登录</string>
+    <string name="sign">注册</string>
+    <string name="entername">输入用户名</string>
+    <string name="enterpass">输入密码</string>
+    <string name="welcome">欢迎，</string>
+    <string name="logout">←退出</string>
+    <string name="soundon">声音：开</string>
+    <string name="soundoff">声音：关</string>
+    <string name="musicon">音乐：开</string>
+    <string name="musicoff">音乐：关</string>
+    <string name="pvp">玩家1 对 玩家2</string>
+    <string name="pvc">玩家1 对 电脑</string>
+    <string name="turn">轮到</string>
+    <string name="p2">玩家2</string>
+    <string name="com">机器人</string>
+    <string name="won">\n赢了</string>
+    <string name="lose">你输了</string>
+    <string name="draw">平局</string>
+    <string name="won2">玩家2\n赢了</string>
+    <string name="home">返回首页</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tris</string>
+    <string name="login">ACCEDI</string>
+    <string name="sign">Registrati</string>
+    <string name="entername">Inserisci nome utente</string>
+    <string name="enterpass">Inserisci password</string>
+    <string name="welcome">Benvenuto,</string>
+    <string name="logout">←Esci</string>
+    <string name="soundon">Suono: attivo</string>
+    <string name="soundoff">Suono: disattivo</string>
+    <string name="musicon">Musica: attiva</string>
+    <string name="musicoff">Musica: disattiva</string>
+    <string name="pvp">Giocatore 1 vs Giocatore 2</string>
+    <string name="pvc">Giocatore 1 vs Computer</string>
+    <string name="turn">è il turno di</string>
+    <string name="p2">Giocatore 2</string>
+    <string name="com">Bot</string>
+    <string name="won">\nVinto</string>
+    <string name="lose">Hai perso</string>
+    <string name="draw">Pareggio</string>
+    <string name="won2">Giocatore 2\nVinto</string>
+    <string name="home">Torna alla Home</string>
+</resources>

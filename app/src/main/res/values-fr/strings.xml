@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="login">CONNEXION</string>
+    <string name="sign">Inscription</string>
+    <string name="entername">Entrez le nom d\'utilisateur</string>
+    <string name="enterpass">Entrez le mot de passe</string>
+    <string name="welcome">Bienvenue,</string>
+    <string name="logout">←Déconnexion</string>
+    <string name="soundon">Son : activé</string>
+    <string name="soundoff">Son : désactivé</string>
+    <string name="musicon">Musique : activée</string>
+    <string name="musicoff">Musique : désactivée</string>
+    <string name="pvp">Joueur 1 vs Joueur 2</string>
+    <string name="pvc">Joueur 1 vs Ordinateur</string>
+    <string name="turn">à toi de jouer</string>
+    <string name="p2">Joueur 2</string>
+    <string name="com">Bot</string>
+    <string name="won">\nGagné</string>
+    <string name="lose">Tu as perdu</string>
+    <string name="draw">Égalité</string>
+    <string name="won2">Joueur 2\nGagné</string>
+    <string name="home">Retour à l\'accueil</string>
+</resources>
