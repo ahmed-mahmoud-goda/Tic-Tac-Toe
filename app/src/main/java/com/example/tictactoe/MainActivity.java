@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                     if(exists != -1) {
                         String user = database.getUsername(exists);
                         editor.putBoolean("logged", true);
-                        editor.putString("username","ahmed");
+                        editor.putString("username",user);
                         editor.apply();
                         Intent i = new Intent(MainActivity.this, Home.class);
                         startActivity(i);

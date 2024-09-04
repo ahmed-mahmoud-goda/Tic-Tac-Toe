@@ -57,8 +57,6 @@ private MediaPlayer mp;
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(WinnerActivity.this,Home.class);
-                startActivity(i);
                 finish();
             }
         });
